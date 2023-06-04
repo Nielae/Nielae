@@ -11,7 +11,7 @@ I am a Technical Analyst, Project manager, and an "uprising" Cloud Engineer who 
 - 🌱 I’m currently learning Cloud Engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer (Intern or Junior level), Technical Analyst and Business Technical Analyst positions.
-- 📫 You can [view my resume](#) and contact me by emailing mailtoudunwadaniela@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailtonielaudunwa@gmail.com.
 
 ---
 
