@@ -4,8 +4,6 @@
 
 I am a Technical Analyst, Project manager, and an "uprising" Cloud Engineer
 
-// who currently works as a Technical Analyst at [Interra networks](https://interranetworks.com.ng). I'm passionate about sharing knowledge, technical writing, data analysis and system testing. I write useful [Technical documents](https://github.com/Nielae).//
-
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
